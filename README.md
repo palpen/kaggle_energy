@@ -1,2 +1,6 @@
 # kaggle_energy
 Code for Kaggle's Energy Prediction competition
+
+## License
+
+Original contributions are available under the [MIT License](LICENSE), within the boundaries in [LICENSE_SCOPE.md](LICENSE_SCOPE.md). Third-party code, data, media, and course material retain their own rights; see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
